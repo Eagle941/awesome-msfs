@@ -40,3 +40,4 @@ TBD
 * [FlyByWire A32Nx/A380](https://github.com/flybywiresim/aircraft) - The most famous open source aircraft for MSFS
 * [MSFS Layout Generator](https://github.com/HughesMDflyer4/MSFSLayoutGenerator) - Tool to help updating the layout.json file for MSFS packages
 * [Flying Brick](https://github.com/tml1024/flying-brick) - Simple aircraft that shows how to override the flight model of MSFS
+* [msfs-rs](https://github.com/flybywiresim/msfs-rs?tab=readme-ov-file) - A Rust library to interface with MSFS SDK
