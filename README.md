@@ -34,4 +34,5 @@ TBD
 
 ## Open Source Projects
 
-* [FlyByWire A32Nx/A380](https://github.com/flybywiresim/aircraft) - The most famouse open source aircraft for MSFS
+* [FlyByWire A32Nx/A380](https://github.com/flybywiresim/aircraft) - The most famous open source aircraft for MSFS
+* [MSFS Layout Generator](https://github.com/HughesMDflyer4/MSFSLayoutGenerator) - Tool to help updating the layout.json file for MSFS packages
