@@ -22,7 +22,7 @@ Awesome list for learning development of add-ons for MSFS
 
 ## Aircraft
 
-TBD
+* [WASM Deep Dive](https://forums.flightsimulator.com/uploads/short-url/AaSUFelXC6mQQiAHeNK09VGLATF.pdf) - Reverse engineering of WASM execution in MSFS
 
 ## Scenary
 
