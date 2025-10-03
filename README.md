@@ -17,6 +17,8 @@ Awesome list for learning development of add-ons for MSFS
 
 * [MSFS 2020 SDK](https://docs.flightsimulator.com/html/Introduction/Introduction.htm) - The official SDK documentation for MSFS 2020
 * [MSFS 2024 SDK](https://docs.flightsimulator.com/msfs2024/flighting/html/1_Introduction/Introduction.htm) - The official SDK documentation for MSFS 2024
+* [MSFS Avionics Framework](https://microsoft.github.io/msfs-avionics-mirror) - Framework written by Microsoft to help coding complex and performing gauges for MSFS
+* [MSFS 2024 Avionics Framework](https://microsoft.github.io/msfs-avionics-mirror/2024/) - Framework written by Microsoft to help coding complex and performing gauges for MSFS2024
 
 ## Aircraft
 
