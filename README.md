@@ -25,7 +25,8 @@ Awesome list for learning development of add-ons for MSFS
 
 * [WASM Deep Dive](https://forums.flightsimulator.com/uploads/short-url/AaSUFelXC6mQQiAHeNK09VGLATF.pdf) - Reverse engineering of WASM execution in MSFS
 * [Creating C-Gauges](https://www.scribd.com/document/452093082/Creating-C-Gauges-by-dai-griffith-pdf) - Tutorial to write gauges in C based on FSX
-
+* [Flight Dynamics in Microsoft Flight Simulator](https://www.fsdeveloper.com/forum/resources/flight-dynamics-in-msfs-v1-0.169/download) - Details on the flight model for FSX and FS9
+  
 ## Scenary
 
 TBD
